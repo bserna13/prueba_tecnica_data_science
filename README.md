@@ -9,7 +9,7 @@
   
 ## Introducción
 
-En este repositorio verán la solución de dos de los tres retos planteados en la prueba técnica, donde se usó conceptos de procesamiento de lenguaje natural, análisis de datos, ciencia de datos, inteligencia artificial, entre otros. Encontrarán 3 directorios, Entorno es donde se guarda toda la información relacionada con el entorno virtual sobre el que se ejecutó los retos (versión de python, librerías, etc.), Modelo IA relacionada con el primer reto donde encontraran el archivo de la fuente de datos y el notebook sobre el que se ejecutó la solución, y por última Venta, relacionada con el segundo reto donde similarmente encontraran la fuente de datos asociada a este reto y el notebook donde se trabajó la solución.
+En este repositorio verán la solución de dos de los tres retos planteados en la prueba técnica, donde se usó conceptos de procesamiento de lenguaje natural, análisis de datos, ciencia de datos, inteligencia artificial, entre otros. Encontrarán 2 directorios, Modelo IA relacionada con el primer reto donde encontraran el archivo de la fuente de datos y el notebook sobre el que se ejecutó la solución, y por última Venta, relacionada con el segundo reto donde similarmente encontraran la fuente de datos asociada a este reto y el notebook donde se trabajó la solución.
 
 
 ## Instalación
@@ -24,8 +24,16 @@ pip install virtualenv
 Posteriormente, se procede a ejecutar y activar el entorno con el que se elaboró esta prueba
 
 ```bash
-# Activar entorno virtual
+# Crear y activar entorno virtual
+virtualenv Entorno
 virtualenv Entorno\Scripts\activate
+```
+
+Por último se instala todas las dependencias usadas en estos retos.
+
+```bash
+# Instalacion de librerias y dependencias usadas en el entorno creado
+pip install -r requirements.txt
 ```
 
 Una vez finalizado se procede a desmontar o desactivar el entorno virtual
