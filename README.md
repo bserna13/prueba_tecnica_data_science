@@ -4,7 +4,7 @@
 
 - [Introducción](#introducción)
 - [Instalación](#instalación)
-- [Información adicional ](#Información adicional)
+- [Información adicional ](#Información_adicional)
 
   
 ## Introducción
