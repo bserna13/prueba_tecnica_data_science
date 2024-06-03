@@ -32,7 +32,7 @@ Una vez finalizado se procede a desmontar o desactivar el entorno virtual
 
 ```bash
 # Desactivar entorno virtual
-desactivate
+deactivate
 ```
 
 ## Información adicional
