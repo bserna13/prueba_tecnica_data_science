@@ -4,6 +4,7 @@
 
 - [Introducción](#introducción)
 - [Instalación](#instalación)
+- [Información adicional ](#Información adicional)
 
   
 ## Introducción
@@ -33,3 +34,16 @@ Una vez finalizado se procede a desmontar o desactivar el entorno virtual
 # Desactivar entorno virtual
 desactivate
 ```
+
+## Información adicional
+
+Muchas gracias por tenerme en cuenta en este proceso, ojalá podamos compartir y charlar sobre estas soluciones a los retos, invito también a echar un vistazo a mis repositorios públicos donde comparto otras soluciones y proyectos de este mundo del que me gusta y apasiona aprender, nuevamente gracias.
+
+Repositorios:
+
+- https://github.com/bserna13/Analitica
+- https://github.com/bserna13/Prueba-Data-Engineer
+
+
+
+
